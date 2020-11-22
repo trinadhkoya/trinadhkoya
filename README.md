@@ -19,4 +19,4 @@ I, Mr.Trinadh Koya working as Senior React Native Engineer at Mutual Mobile.
         facebook:
         https://www.facebook.com/trinadhkoya9
 - 😄 Pronouns: Tri (gZipped)
-- ⚡ Fun fact: . I hate JS 
+- ⚡ Fun fact: I hate JS 
