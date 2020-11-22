@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**trinadhkoya/trinadhkoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I, Mr.Trinadh Koya working as Senior React Native Engineer at Mutual Mobile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React & Go-Lang
+- 🌱 I’m currently learning AWS & Studying Machine Learning
+- 👯 I’m looking to collaborate on Python & 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about startups 
+- 📫 How to reach me:
+        Website: https://www.trinadhkoya.me
+        Instagram: https://www.instagram.com/trinadhkoya/
+        twitter: https://www.twitter.com/trinadhkoya9
+        facebook: https://www.facebook.com/trinadhkoya9
+- 😄 Pronouns: Tri (gZipped)
+- ⚡ Fun fact: . I hate JS 
