@@ -11,15 +11,15 @@ I,  **Mr.Trinadh Koya** working as Senior React Native Engineer at Mutual Mobile
 - 💬 Ask me about startups 
 - 📫 How to reach me:
 
-    LinkedIn:  [LinkedIn](https://in.linkedin.com/in/trinadhkoya9 "linkedin")
+   [LinkedIn](https://in.linkedin.com/in/trinadhkoya9 "linkedin")
 
-    Website:   [Website](https://www.trinadhkoya.me "website")
+   [Website](https://www.trinadhkoya.me "website")
     
-    Instagram: [Instagram](https://www.instagram.com/trinadhkoya "instagram")
+   [Instagram](https://www.instagram.com/trinadhkoya "instagram")
     
-    Twitter:   [Twitter](https://www.twitter.com/trinadhkoya9 "twitter")
+   [Twitter](https://www.twitter.com/trinadhkoya9 "twitter")
     
-    Facebook:  [Facebook](https://www.facebook.com/trinadhkoya9 "fb")
+   [Facebook](https://www.facebook.com/trinadhkoya9 "fb")
     
 - 😄 Pronouns: **Tri** (gZipped)
 - ⚡ Fun fact: I hate JS 
