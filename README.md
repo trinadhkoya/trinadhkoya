@@ -10,6 +10,7 @@ I,  **Mr.Trinadh Koya** working as Senior React Native Engineer at Mutual Mobile
 - 🤔 I’m looking for help with GoLang+MongoDb/DynamoDB=>AWS
 - 💬 Ask me about startups 
 - 📫 How to reach me:
+
     LinkedIn:  [LinkedIn](https://in.linkedin.com/in/trinadhkoya9 "linkedin")
 
     Website:   [Website](https://www.trinadhkoya.me "website")
