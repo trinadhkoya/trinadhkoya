@@ -29,7 +29,7 @@ Databases: PostgresSQL, sqlite3
 
 
 
-## Get in touch:
+👇🏻 Get in touch:
 
 Feel free to tap me on LinkedIn or Instagram.
 
