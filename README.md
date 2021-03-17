@@ -21,7 +21,7 @@ Databases: PostgresSQL, sqlite3
 
 👀 What I Am Working on atm
 - 🌱 I’m currently learning AWS & Studying Machine Learning
-- 
+
 💬 Ask me about
 - 🌱 Startups
 
