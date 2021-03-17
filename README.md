@@ -12,19 +12,13 @@ I,  **Mr.Trinadh Koya** working as Senior React Native Engineer at Mutual Mobile
 
 ⚡ Languages/Tech
 
-❤️ JAVA
-
-❤️ Python
-
-❤️ Node.JS
-
-❤️ Android
-
-❤️ React Native
-
-❤️ Go
-
-❤️ Databases: PostgresSQL, sqlite3
+- JAVA
+- Python
+- Node.JS
+- Android
+- React Native
+- Go
+- Databases: PostgresSQL, sqlite3
 
 👀 What I Am Working on atm
 - 🌱 I’m currently learning AWS & Studying Machine Learning
