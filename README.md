@@ -1,4 +1,4 @@
-# Welcome back 👋
+# 👋 Welcome back
 
 I,  **Mr.Trinadh Koya** working as Senior React Native Engineer at Mutual Mobile. I love coding, it does not mean that i always focus on coding. I keep exploring things and play with new programming stuff. 
 
